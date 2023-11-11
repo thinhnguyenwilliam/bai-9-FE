@@ -162,3 +162,70 @@
     }
 }
 /* End section_4 */
+
+
+
+/* section_5 */
+.section_5{
+    margin: 60px 0;
+}
+.section_5 .inner_main{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 15px;
+    overflow: hidden;/*thừa ra ẩn di*/
+}
+.section_5 .inner_head{
+    background-image: linear-gradient(to right,#F57F20, #D72D09);
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    font-size: 32px;
+    font-weight: 700;
+}
+.section_5 .inner_list{
+    padding: 30px;
+}
+.section_5 .card{
+    margin-bottom: 20px;
+}
+.section_5 .card-header {
+    background-color: #fff;
+    padding: 5px 10px;
+    border-radius: 8px!important;
+    overflow: hidden;
+}
+.section_5 .accordion>.card>.card-header {
+    margin-bottom: 0px;
+}
+.section_5 .card-header button{
+    color: #000;
+    text-decoration: none;
+}
+/* End section_5 */
+
+
+
+
+/* section_6 */
+.section_6{
+    margin: 60px 0;
+}
+.section_6 .inner_main{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 15px;
+    overflow: hidden;/*thừa ra ẩn di*/
+}
+.section_6 .inner_head{
+    background-image: linear-gradient(to right,#F57F20, #D72D09);
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+.section_6 .inner_title{
+    font-size: 32px;
+    font-weight: 600;
+}
+.section_6 .inner_form{
+    padding: 30px;
+}
+/* End section_6 */
